@@ -9,20 +9,20 @@ import { usePathname } from "next/navigation";
 const navLinks: NavLinks[] = [
   {
     id: 4,
-    title: "About Us",
+    title: "WHAT WE OFFER YOU",
     href: "/about",
     subMenu: null,
   },
 
   {
     id: 6,
-    title: "Blog",
+    title: "LEARN",
     href: "/blog",
     subMenu: null,
   },
   {
     id: 7,
-    title: "Contact Us",
+    title: "REACH OUT",
     href: "/contact",
     subMenu: null,
   },
